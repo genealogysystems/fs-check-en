@@ -1,0 +1,23 @@
+{
+  "name": "fs-check-en",
+  "version": "0.1.0",
+  "description": "English titles and descriptions for fs-check",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/genealogysystems/fs-check-en.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/genealogysystems/fs-check-en/issues"
+  },
+  "homepage": "https://github.com/genealogysystems/fs-check-en",
+  "devDependencies": {
+    "chai": "2.1.1",
+    "mocha": "2.2.1"
+  }
+}
