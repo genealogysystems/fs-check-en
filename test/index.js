@@ -4,7 +4,7 @@ var data = require('../'),
 describe('fs-check-en', function(){
     
     it('proper number of checks', function(){
-        expect(Object.keys(data).length).to.equal(22);
+        expect(Object.keys(data).length).to.equal(27);
     })
     
     it('all checks have a title and description', function(){
