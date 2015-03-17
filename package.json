@@ -4,7 +4,8 @@
   "description": "English titles and descriptions for fs-check",
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "build": "node build.js"
   },
   "repository": {
     "type": "git",
